@@ -3,7 +3,7 @@
 Hypotheses:
 * Buyers & Sellers: 20 each
 * Initially each seller owns 30 units.
-* Each buyer i ∈ {1, . . . , 20}, has a fixed valuation that is a random number between 1 and 200.
+* Each buyer has a fixed valuation.
 
 At every round, buyers and sellers place their orders that are of the following form:
 * A buyer’s order (b, q) is such that:
